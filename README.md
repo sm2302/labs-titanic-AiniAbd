@@ -1,4 +1,4 @@
-# AiniAbd's Individual Assignment
-> Work Sheet 1
+# Individual Assignment
 
-## Titanic Assignment :ship:
+## Titanic Analysis :ship:
+
